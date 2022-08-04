@@ -12,6 +12,9 @@ they need the most.
 <br><br>
 
 ## Features
+Follwoing are some of the new tactics or features applied while making this website.
+- Important Keyword has been used in the CSS to override the Bootstrap built-in template designing.
+- Background has been applied using both the picture and linear gradient to make our website look stylish and elegant at the same time.
 <br><br>
 
 ## Resources
@@ -19,6 +22,8 @@ Following are the main resources used in this project.
 - [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/) CDN, for applying the design.
 - [Font Awesome Icons](https://fontawesome.com/icons) Kit for using the icons.
 - [Fav Icon](https://favicon.io/favicon-converter/) Converter, forconverting the image into the favicon.
+- [Niconne Font](https://fonts.google.com/specimen/Niconne?subset=tamil) ha been used for the hero texts of the website.
+- [Teko Font](https://fonts.google.com/specimen/Teko?query=Teko) has been used to simple text displayed on the website.
 <br><br>
 
 ## Demo
