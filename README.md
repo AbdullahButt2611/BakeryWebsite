@@ -9,6 +9,8 @@
 This is a simple bootstrap based project. Being my first project in Bootstrap, I have tried to make it simple and elegant keeping the marking standard approved by it.
 The purpose of this website is to promote the business of the company and providing an e-platform to the users to link with this bakery and help get the best what
 they need the most.
+<br>
+The user simply has to click on the **Menu Icon** (Hamburger) in order to get access to the menu provided by the website. Being a single sheeted whbsite, the nav links will automatically scroll the user to thir desired location. A transpiring effect has been implemented to the menu.
 <br><br>
 
 ## Features
