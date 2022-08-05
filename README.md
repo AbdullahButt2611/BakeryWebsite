@@ -15,6 +15,7 @@ they need the most.
 Follwoing are some of the new tactics or features applied while making this website.
 - Important Keyword has been used in the CSS to override the Bootstrap built-in template designing.
 - Background has been applied using both the picture and linear gradient to make our website look stylish and elegant at the same time.
+- The Emerging Effextof navbar is alluring.
 <br><br>
 
 ## Resources
@@ -41,6 +42,7 @@ Following Technologies have been used in making this project a complete running 
 - Bootstrap
 - CSS
 - JavaScript
+- JQuery
 <br><br>
 
 
