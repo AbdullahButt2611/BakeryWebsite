@@ -17,7 +17,8 @@ The user simply has to click on the **Menu Icon** (Hamburger) in order to get ac
 Follwoing are some of the new tactics or features applied while making this website.
 - Important Keyword has been used in the CSS to override the Bootstrap built-in template designing.
 - Background has been applied using both the picture and linear gradient to make our website look stylish and elegant at the same time.
-- The Emerging Effextof navbar is alluring.
+- The Emerging Effect of navbar is alluring.
+- The nice hover flashing effect on buttons that enhances the beauty of this website.
 <br><br>
 
 ## Resources
