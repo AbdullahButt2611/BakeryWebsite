@@ -9,12 +9,15 @@
 This is a simple bootstrap based project. Being my first project in Bootstrap, I have tried to make it simple and elegant keeping the marking standard approved by it.
 The purpose of this website is to promote the business of the company and providing an e-platform to the users to link with this bakery and help get the best what
 they need the most.
+<br>
+The user simply has to click on the **Menu Icon** (Hamburger) in order to get access to the menu provided by the website. Being a single sheeted whbsite, the nav links will automatically scroll the user to thir desired location. A transpiring effect has been implemented to the menu.
 <br><br>
 
 ## Features
 Follwoing are some of the new tactics or features applied while making this website.
 - Important Keyword has been used in the CSS to override the Bootstrap built-in template designing.
 - Background has been applied using both the picture and linear gradient to make our website look stylish and elegant at the same time.
+- The Emerging Effextof navbar is alluring.
 <br><br>
 
 ## Resources
@@ -41,6 +44,7 @@ Following Technologies have been used in making this project a complete running 
 - Bootstrap
 - CSS
 - JavaScript
+- JQuery
 <br><br>
 
 
