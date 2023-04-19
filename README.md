@@ -32,15 +32,6 @@ Following are the main resources used in this project.
 - [Teko Font](https://fonts.google.com/specimen/Teko?query=Teko) has been used to simple text displayed on the website.
 <br><br>
 
-## Demo
-<br><br>
-
-## Link To Video
-<br><br>
-
-## GUI
-<br><br>
-
 ## Technology Stack
 Following Technologies have been used in making this project a complete running website.
 - HTML
@@ -48,13 +39,6 @@ Following Technologies have been used in making this project a complete running 
 - CSS
 - JavaScript
 - JQuery
-<br><br>
-
-
-## Advancement
-<br><br>
-
-## Deployment
 <br><br>
 
 ## Developer
